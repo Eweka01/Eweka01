@@ -32,7 +32,7 @@ To leverage my strong foundation in network security, cloud security, and incide
 ---
 
 ## Projects
--Seven Domains of a Typical IT Infrastructure https://github.com/Eweka01/-Seven-Domains-of-a-Typical-IT-Infrastructure-/tree/main
+- [Seven Domains of a Typical IT Infrastructure](https://github.com/Eweka01/-Seven-Domains-of-a-Typical-IT-Infrastructure-/tree/main)
 
 
 
