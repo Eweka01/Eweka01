@@ -5,8 +5,6 @@ Hi, I'm Osamudiamen Eweka, but you can call me Osas! I'm a cybersecurity graduat
 
 Feel free to connect and collaborate!
 
----
-
 ## Objective
 To leverage my strong foundation in network security, cloud security, and incident response, combined with hands-on experience and continuous learning, to contribute to protecting organizations' digital assets. I aim to drive impactful security strategies, particularly in securing hybrid cloud environments, while advancing my skills and growing within the cybersecurity industry.
 
