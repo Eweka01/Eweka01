@@ -29,7 +29,7 @@ To leverage my strong foundation in network security, cloud security, and incide
 - [Vulnerability Assessment](https://github.com/Eweka01/Performing-a-Vulnerability-Assessment/tree/main)
 - [Packet Capture and Traffic Analysis](https://github.com/Eweka01/Performing-Packet-Capture-and-Traffic-Analysis/tree/main)
 - [User Authentication and Access Controls](https://github.com/Eweka01/Applying-User-Authentication-and-Access-Controls/tree/main)
-
+- [Using Encryption to Enhance Confidentiality and Integrity](https://github.com/Eweka01/Using-Encryption-to-Enhance-Confidentiality-and-Integrity)
 
 ---
 ### Tools
