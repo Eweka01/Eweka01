@@ -1,14 +1,9 @@
 # Hello I'm Osamudiamen Eweka 
-
+<a href="https://www.linkedin.com/in/osamudiamen-eweka-85b3b3261/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 ## About Me
 Hi, I'm Osamudiamen Eweka, but you can call me Osas! I'm a cybersecurity graduate student at Utica University with a solid foundation in network security, cloud security, and incident response. My passion lies in securing hybrid cloud environments and exploring tools like OWASP Amass for attack surface mapping. With hands-on experience from internships at LOG(N) Pacific as Cyber Security Support Engineer and a drive for continuous learning, I'm eager to tackle complex challenges and make an impact in the cybersecurity field. Let's connect and collaborate!
 
 Feel free to connect and collaborate!
-
-**Contact Information:**
-- Email: oseweka1@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/osamudiamen-eweka-85b3b3261/)
-- [GitHub](https://github.com/eweka01)
 
 ---
 
