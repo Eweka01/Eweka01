@@ -1,4 +1,4 @@
-# Hello I'm Osamudiamen Eweka (Osas) - Cybersecurity Graduate Student
+# Hello I'm Osamudiamen Eweka 
 
 ## About Me
 Hi, I'm Osamudiamen Eweka, but you can call me Osas! I'm a cybersecurity graduate student at Utica University with a solid foundation in network security, cloud security, and incident response. My passion lies in securing hybrid cloud environments and exploring tools like OWASP Amass for attack surface mapping. With hands-on experience from internships at LOG(N) Pacific as Cyber Security Support Engineer and a drive for continuous learning, I'm eager to tackle complex challenges and make an impact in the cybersecurity field. Let's connect and collaborate!
@@ -34,31 +34,9 @@ To leverage my strong foundation in network security, cloud security, and incide
 ## Projects
 -Seven Domains of a Typical IT Infrastructure https://github.com/Eweka01/-Seven-Domains-of-a-Typical-IT-Infrastructure-/tree/main
 
-### Cloud Incident Response Simulation
-**Description**: Simulated a cloud incident response scenario focusing on detection, containment, and remediation of a security breach in a cloud environment.
-- **Technologies Used**: AWS Cloud, Python, Splunk
-- **Outcome**: Developed a playbook for incident response in cloud environments.
 
-### OWASP Amass Attack Surface Mapping
-**Description**: Conducted an attack surface analysis of Utica University using OWASP Amass.
-- **Technologies Used**: OWASP Amass, Neo4j for visualization
-- **Outcome**: Identified and visualized potential attack vectors on the university's infrastructure.
-
-### Network Security Project
-**Description**: Configured IPsec encryption for secure communication between cloud servers, ensuring data integrity and confidentiality during transmission.
-- **Technologies Used**: OpenVPN, Linux, AWS EC2
-- **Outcome**: Successfully implemented end-to-end encryption for critical data communication.
 
 ---
-
-## Research
-
-- **Perimeter and Network Security in Defense-in-Depth Strategy**: A comprehensive guide on implementing a layered security approach to protect organizational networks (in progress).
-
----
-
-## Tools and Skills
-
 ### Tools
 - OWASP Amass
 - Wireshark
@@ -71,12 +49,6 @@ To leverage my strong foundation in network security, cloud security, and incide
 - **Cloud Security**: Experience in securing AWS and hybrid cloud environments.
 - **Incident Response**: Developed playbooks and conducted tabletop exercises for incident response.
 - **Penetration Testing**: Skilled in conducting vulnerability assessments and penetration tests on networks and applications.
-
----
-
-## Code Repository
-
-Check out my GitHub repository for cybersecurity-related code and projects: [GitHub Repository](https://github.com/osas-eweka)
 
 ---
 
