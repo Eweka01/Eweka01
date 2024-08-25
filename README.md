@@ -27,6 +27,7 @@ To leverage my strong foundation in network security, cloud security, and incide
 ## Projects
 - [Seven Domains of a Typical IT Infrastructure](https://github.com/Eweka01/-Seven-Domains-of-a-Typical-IT-Infrastructure-/tree/main)
 - [Vulnerability Assessment](https://github.com/Eweka01/Performing-a-Vulnerability-Assessment/tree/main)
+- [Packet Capture and Traffic Analysis](https://github.com/Eweka01/Performing-Packet-Capture-and-Traffic-Analysis/tree/main)
 
 
 
