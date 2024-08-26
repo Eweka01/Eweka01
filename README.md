@@ -35,6 +35,8 @@ To leverage my strong foundation in network security, cloud security, and incide
 - [Implementing Security Monitoring and Logging](https://github.com/Eweka01/Implementing-Security-Monitoring-and-Logging)
 - [Configuring Backup and Recovery Functions](https://github.com/Eweka01/-Configuring-Backup-and-Recovery-Functions)
 - [Performing Incident Response and Forensic Analysis](https://github.com/Eweka01/Performing-Incident-Response-and-Forensic-Analysis/tree/main)
+- [Comprehensive Information Security Plan for the Healthcare Industry](https://github.com/Eweka01/Comprehensive-Information-Security-Plan-for-the-Healthcare-Industry)
+- [Analysis of an OWASP Threat in the Context of AI-Enhanced Cybersecurity:](https://github.com/Eweka01/Analysis-of-an-OWASP-Threat-in-the-Context-of-AI-Enhanced-Cybersecurity-)
 
 ---
 ### Tools
