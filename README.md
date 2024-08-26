@@ -32,6 +32,8 @@ To leverage my strong foundation in network security, cloud security, and incide
 - [Using Encryption to Enhance Confidentiality and Integrity](https://github.com/Eweka01/Using-Encryption-to-Enhance-Confidentiality-and-Integrity)
 - [Assessing Common Attack Vectors](https://github.com/Eweka01/Assessing-Common-Attack-Vectors/tree/main)
 - [Implementing an IT Security Policy](https://github.com/Eweka01/Implementing-an-IT-Security-Policy)
+- [Implementing Security Monitoring and Logging](https://github.com/Eweka01/Implementing-Security-Monitoring-and-Logging)
+- 
 
 ---
 ### Tools
