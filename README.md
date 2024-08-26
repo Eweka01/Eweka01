@@ -33,7 +33,8 @@ To leverage my strong foundation in network security, cloud security, and incide
 - [Assessing Common Attack Vectors](https://github.com/Eweka01/Assessing-Common-Attack-Vectors/tree/main)
 - [Implementing an IT Security Policy](https://github.com/Eweka01/Implementing-an-IT-Security-Policy)
 - [Implementing Security Monitoring and Logging](https://github.com/Eweka01/Implementing-Security-Monitoring-and-Logging)
-- 
+- [Configuring Backup and Recovery Functions](https://github.com/Eweka01/-Configuring-Backup-and-Recovery-Functions)
+- [Performing Incident Response and Forensic Analysis](https://github.com/Eweka01/Performing-Incident-Response-and-Forensic-Analysis/tree/main)
 
 ---
 ### Tools
