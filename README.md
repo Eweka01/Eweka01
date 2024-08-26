@@ -37,6 +37,10 @@ To leverage my strong foundation in network security, cloud security, and incide
 - [Performing Incident Response and Forensic Analysis](https://github.com/Eweka01/Performing-Incident-Response-and-Forensic-Analysis/tree/main)
 - [Information Security Plan for the Healthcare Industry](https://github.com/Eweka01/Comprehensive-Information-Security-Plan-for-the-Healthcare-Industry)
 - [Analysis of an OWASP Threat in the Context of AI-Enhanced Cybersecurity](https://github.com/Eweka01/Analysis-of-an-OWASP-Threat-in-the-Context-of-AI-Enhanced-Cybersecurity-)
+- [SOC Service: Focus on Incident Response](https://github.com/Eweka01/SOC-Service-Focus-on-Incident-Response)
+- [Intentional Insider Data Breach: A Case Study and Preventive Measures](https://github.com/Eweka01/Intentional-Insider-Data-Breach-A-Case-Study-and-Preventive-Measures)
+- [Perimeter and Network Security in a Defense-in-Depth Strategy ](https://github.com/Eweka01/Perimeter-and-Network-Security-in-a-Defense-in-Depth-Strategy-)
+- [Security Architecture for Tech Solutions Inc.](https://github.com/Eweka01/Security-Architecture-for-Tech-Solutions-Inc.)
 
 ---
 ### Tools
