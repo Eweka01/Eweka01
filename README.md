@@ -13,7 +13,7 @@ To leverage my strong foundation in network security, cloud security, and incide
 - **Master's in Cybersecurity**, Utica University (Expected Graduation: 2025)
 - **Bachelor's in Computer Science**, Benson Idahosa University (2022)
 
-Additional Education vist my RangeForce 
+For additional Education visit my RangeForce 
 
 <a href="https://storage.googleapis.com/materials-prod/certificates/2024/08/6cf572ec-c96b-428b-abe4-cd87d6b83975.pdf?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=cdn-cicd-uploader%40rf-cdn-1.iam.gserviceaccount.com%2F20240826%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240826T231439Z&X-Goog-Expires=604740&X-Goog-SignedHeaders=host&X-Goog-Signature=445d6a050d89a4fc9ef09897bfb63fe4bc2d5f9f3ec9e692bbd53c72ce417ca955b4906c3aa1a59c85d70a550256910873180a9fdb0711f55b1875bcccef0e8ecf30ca542e3a274aef00cd1fca306b51af3640b22782b1ff142674b882cefad9fae5cd365a3f6da447f8f416c1eb156db766c47149ad88b67c76744cfc932e93abf7c8663c3e3845c3ce8a53e211f41f2fcf9b16fe7e47624b6455df4026b79a69ecdc41ed000201d770b6175b0983db0a9204548ac50dae22e6854a9f2999f5c89b4c1a01defda0e4afa975187035f6d176ac5fa2c04b7dd94e736902f183db54be05a2170f41d96e0b229788b24ef3eca360bba212ed114a0a5eee8a4b5f5a" target="_blank">
     <img src="https://img.shields.io/badge/-RangeForce-007FFF?&style=for-the-badge&logo=RangeForce&logoColor=white" />
