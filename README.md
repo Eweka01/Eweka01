@@ -23,6 +23,7 @@ For additional Education visit my RangeForce
 ### Certifications
 - CompTIA Security+ (Expected)
 - AWS Certified Solutions Architect - Associate (Expected)
+- [Mastercard Cybersecurity Completion Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_iZLcjQo6rXmKLWGyx_1724875687463_completion_certificate.pdf)
 
 ### Technical Skills
 - **Tools**: OWASP Amass, Wireshark, Metasploit, Splunk, Burp Suite
