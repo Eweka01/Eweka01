@@ -33,6 +33,7 @@ For additional Education visit my RangeForce
 ---
 
 ## Projects
+- [Transaction Frauds](https://github.com/Eweka01/Analyzed-a-Large-Dataset-of-Fraud-in-Financial-Payment-Services)
 - [Seven Domains of a Typical IT Infrastructure](https://github.com/Eweka01/-Seven-Domains-of-a-Typical-IT-Infrastructure-/tree/main)
 - [Vulnerability Assessment](https://github.com/Eweka01/Performing-a-Vulnerability-Assessment/tree/main)
 - [Packet Capture and Traffic Analysis](https://github.com/Eweka01/Performing-Packet-Capture-and-Traffic-Analysis/tree/main)
