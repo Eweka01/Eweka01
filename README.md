@@ -79,10 +79,10 @@ For additional Education visit my RangeForce
 ---
 ### Tools
 Several tools that I used: 
-- OWASP Amass
-- Wireshark
-- Metasploit
-- Burp Suite
+* OWASP Amass
+* Wireshark
+* Metasploit
+* Burp Suite
 * Google Workspace (Drive, Docs, Sheets, Slides)
 * Markdown Language 
 * Tcpdump
