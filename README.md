@@ -92,7 +92,7 @@ Several tools that I used:
 * Python 
 
 ### Academic research
-- [Reflection on The Art of Attack- Attacker Mindset for Security Professionals.pdf](https://github.com/user-attachments/files/16880155/Osamudiamen.Eweka.Reflection.on.The.Art.of.Attack-.Attacker.Mindset.for.Security.Professionals.pdf)
+- [Attacker Mindset for Security Professionals.pdf](https://github.com/user-attachments/files/16880155/Osamudiamen.Eweka.Reflection.on.The.Art.of.Attack-.Attacker.Mindset.for.Security.Professionals.pdf)
 
 
 ---
