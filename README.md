@@ -5,10 +5,26 @@ Hi, I'm Osamudiamen Eweka, but you can call me Osas! I'm a cybersecurity graduat
 
 Feel free to connect and collaborate!
 
-## Objective
-To leverage my strong foundation in network security, cloud security, and incident response, combined with hands-on experience and continuous learning, to contribute to protecting organizations' digital assets. I aim to drive impactful security strategies, particularly in securing hybrid cloud environments, while advancing my skills and growing within the cybersecurity industry.
+## Portfolio
+> Please visit this [link]() for further information.
 
+> Some of my documents are in PDF format to accommodate advanced formatting, include colorful presentations, and incorporate abundant screenshots for enhanced clarity and detail.
 
+I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn my Master's as a Cybersecurity Operation Professional. This major/program has provided insights into:
+* Programming for cybersecurity tasks
+* Frameworks and controls that inform security operations
+* SIEM tools for cybersecurity
+* Detecting and responding to incidents using an intrusion detection system
+* Performing packet capture and analysis
+
+Additionally, it has paved the way for me to pursue one of the entry-level following roles:
+* Cybersecurity Analyst
+* Security Analyst
+* SOC Analyst
+* Information Security Analyst
+* IT Security Analyst
+* Cyber Defense Analyst
+  
 ### Education
 - **Master's in Cybersecurity**, Utica University (Expected Graduation: 2025)
 - **Bachelor's in Computer Science**, Benson Idahosa University (2022)
