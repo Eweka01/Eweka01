@@ -91,11 +91,9 @@ Several tools that I used:
 * Suricata
 * Python 
 
-### Skills
-- **Network Security**: Expertise in configuring firewalls, VPNs, and network monitoring.
-- **Cloud Security**: Experience in securing AWS and hybrid cloud environments.
-- **Incident Response**: Developed playbooks and conducted tabletop exercises for incident response.
-- **Penetration Testing**: Skilled in conducting vulnerability assessments and penetration tests on networks and applications.
+### Academic research
+- [Reflection on The Art of Attack- Attacker Mindset for Security Professionals.pdf](https://github.com/user-attachments/files/16880155/Osamudiamen.Eweka.Reflection.on.The.Art.of.Attack-.Attacker.Mindset.for.Security.Professionals.pdf)
+
 
 ---
 
