@@ -74,6 +74,7 @@ For additional Education visit my RangeForce
 - [Intentional Insider Data Breach: A Case Study and Preventive Measures](https://github.com/Eweka01/Intentional-Insider-Data-Breach-A-Case-Study-and-Preventive-Measures)
 - [Perimeter and Network Security in a Defense-in-Depth Strategy ](https://github.com/Eweka01/Perimeter-and-Network-Security-in-a-Defense-in-Depth-Strategy-)
 - [Security Architecture for Tech Solutions Inc.](https://github.com/Eweka01/Security-Architecture-for-Tech-Solutions-Inc.)
+- [Attack Surface Mapping](https://github.com/Eweka01/Attack-Surface-Mapping/tree/main)
 
 ---
 ### Tools
