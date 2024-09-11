@@ -60,9 +60,9 @@ For additional Education visit my RangeForce
 - [Transaction Frauds](https://github.com/Eweka01/Analyzed-a-Large-Dataset-of-Fraud-in-Financial-Payment-Services)
 - [Spam or Ham Email Classifier](https://github.com/Eweka01/Spam-or-Ham-Build-an-Email-Classifier/tree/main)
 - [Fraud Detection Dashboard using Splunk](https://github.com/Eweka01/Fraud-Detection-Dashboard-using-Splunk)
-- [Perimeter and Network Security in a Defense-in-Depth Strategy ](https://github.com/Eweka01/Perimeter-and-Network-Security-in-a-Defense-in-Depth-Strategy-)
 - [Security Architecture for Tech Solutions Inc.](https://github.com/Eweka01/Security-Architecture-for-Tech-Solutions-Inc.)
 - [HackThisSite.org](https://github.com/Eweka01/HackThisSite.org/tree/main)
+- [Attack Surface Mapping](https://github.com/Eweka01/Attack-Surface-Mapping/tree/main)
 - [Seven Domains of a Typical IT Infrastructure](https://github.com/Eweka01/-Seven-Domains-of-a-Typical-IT-Infrastructure-/tree/main)
 - [Vulnerability Assessment](https://github.com/Eweka01/Performing-a-Vulnerability-Assessment/tree/main)
 - [Packet Capture and Traffic Analysis](https://github.com/Eweka01/Performing-Packet-Capture-and-Traffic-Analysis/tree/main)
@@ -78,6 +78,7 @@ For additional Education visit my RangeForce
 - [Analysis of an OWASP Threat in the Context of AI-Enhanced Cybersecurity](https://github.com/Eweka01/Analysis-of-an-OWASP-Threat-in-the-Context-of-AI-Enhanced-Cybersecurity-)
 - [SOC Service: Focus on Incident Response](https://github.com/Eweka01/SOC-Service-Focus-on-Incident-Response)
 - [Intentional Insider Data Breach: A Case Study and Preventive Measures](https://github.com/Eweka01/Intentional-Insider-Data-Breach-A-Case-Study-and-Preventive-Measures)
+- [Perimeter and Network Security in a Defense-in-Depth Strategy ](https://github.com/Eweka01/Perimeter-and-Network-Security-in-a-Defense-in-Depth-Strategy-)
 - [Attack Surface Mapping](https://github.com/Eweka01/Attack-Surface-Mapping/tree/main)
 
 ---
