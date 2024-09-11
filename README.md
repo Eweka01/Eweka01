@@ -84,6 +84,9 @@ For additional Education visit my RangeForce
 ---
 ### Tools
 Several tools that I used: 
+* AWS Cloud
+* Azure cloud
+* Google cloud
 * OWASP Amass
 * Wireshark
 * Metasploit
