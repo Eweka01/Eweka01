@@ -57,7 +57,7 @@ For additional Education visit my RangeForce
 ---
 
 ## Projects
-- [Transaction Frauds](https://github.com/Eweka01/Analyzed-a-Large-Dataset-of-Fraud-in-Financial-Payment-Services)
+- [TAnalyzed a Large Dataset of Fraud-in-Financial Payment-Services](https://github.com/Eweka01/Analyzed-a-Large-Dataset-of-Fraud-in-Financial-Payment-Services)
 - [Spam or Ham Email Classifier](https://github.com/Eweka01/Spam-or-Ham-Build-an-Email-Classifier/tree/main)
 - [Fraud Detection Dashboard using Splunk](https://github.com/Eweka01/Fraud-Detection-Dashboard-using-Splunk)
 - [Security Architecture for Tech Solutions Inc.](https://github.com/Eweka01/Security-Architecture-for-Tech-Solutions-Inc.)
