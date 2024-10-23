@@ -57,6 +57,7 @@ For additional Education visit my RangeForce
 ---
 
 ## Projects
+- [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/Eweka01/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-)
 - [Analyzed a Large Dataset of Fraud-in-Financial Payment-Services](https://github.com/Eweka01/Analyzed-a-Large-Dataset-of-Fraud-in-Financial-Payment-Services)
 - [Spam or Ham Email Classifier](https://github.com/Eweka01/Spam-or-Ham-Build-an-Email-Classifier/tree/main)
 - [Fraud Detection Dashboard using Splunk](https://github.com/Eweka01/Fraud-Detection-Dashboard-using-Splunk)
