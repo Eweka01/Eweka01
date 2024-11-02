@@ -36,9 +36,12 @@ For additional Education visit my RangeForce
 </a>
 
 
-### Certifications
+### Certifications								
 - CompTIA Security+ (Expected)
+- CompTIA Cloud + 
 - AWS Certified Solutions Architect - Associate (Expected)
+- [FEMA National Incident Management System (NIMS): ICS-100](https://www.linkedin.com/posts/osamudiamen-eweka_im-happy-to-share-that-ive-obtained-a-new-activity-7252111024873476096-RLmd/?utm_source=share&utm_medium=member_desktop) 						
+- [Qualys Vulnerability Management](https://www.linkedin.com/posts/osamudiamen-eweka_im-happy-to-share-that-ive-obtained-a-new-activity-7252094114060521472-WNBu/?utm_source=share&utm_medium=member_desktop) 	
 - [Mastercard Cybersecurity Completion Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_iZLcjQo6rXmKLWGyx_1724875687463_completion_certificate.pdf)
 - [](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/gWbW5qHAChqQBGWpA_JPMorgan%20Chase%20&%20Co._iZLcjQo6rXmKLWGyx_1725517584208_completion_certificate.pdf)
 
