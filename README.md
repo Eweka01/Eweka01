@@ -48,7 +48,6 @@ Additionally, it has paved the way for me to pursue one of the entry-level follo
 - [Spam or Ham Email Classifier](https://github.com/Eweka01/Spam-or-Ham-Build-an-Email-Classifier/tree/main)
 - [Fraud Detection Dashboard using Splunk](https://github.com/Eweka01/Fraud-Detection-Dashboard-using-Splunk)
 - [Security Architecture for Tech Solutions Inc.](https://github.com/Eweka01/Security-Architecture-for-Tech-Solutions-Inc.)
-- [HackThisSite.org](https://github.com/Eweka01/HackThisSite.org/tree/main)
 - [Attack Surface Mapping](https://github.com/Eweka01/Attack-Surface-Mapping/tree/main)
 - [Seven Domains of a Typical IT Infrastructure](https://github.com/Eweka01/-Seven-Domains-of-a-Typical-IT-Infrastructure-/tree/main)
 - [Vulnerability Assessment](https://github.com/Eweka01/Performing-a-Vulnerability-Assessment/tree/main)
