@@ -3,13 +3,6 @@
 ## About Me
 Hi, I'm Osamudiamen Eweka, but you can call me Osas! I'm a cybersecurity graduate student at Utica University with a solid foundation in network security, cloud security, and incident response. My passion lies in securing hybrid cloud environments and exploring tools like, Splunk, Microsoft Sentinel, OWASP Amass for attack surface mapping. With hands-on experience from my internship at LOG(N) Pacific as a Cyber Security Support Engineer, where I designed and built a SOC and honeynet in Azure (using live traffic), along with a strong drive for continuous learning, I am eager to tackle complex challenges and make a meaningful impact in the cybersecurity field. Let’s connect and collaborate!
 
-Feel free to connect and collaborate!
-
-## Portfolio
-> Please visit this [link]() for further information.
-
-> Some of my documents are in PDF format to accommodate advanced formatting, include colorful presentations, and incorporate abundant screenshots for enhanced clarity and detail.
-
 I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn my Master's as a Cybersecurity Operation Professional. This major/program has provided insights into:
 * Programming for cybersecurity tasks
 * Frameworks and controls that inform security operations
