@@ -83,5 +83,5 @@ Here are some highlights from my portfolio:
 
 ## 📫 Contact Me  
 Let’s connect to collaborate on exciting cybersecurity projects!  
-- **Email**: [oseweka1@gmail.com](mailto:oseweka1@gmail.com)  
+- **Email**: [oseweka1@gmail.com](mailto:oseweka2@gmail.com)  
 - **LinkedIn**: [Osamudiamen Eweka](https://www.linkedin.com/in/osamudiamen-eweka-85b3b3261/)  
