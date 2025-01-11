@@ -1,120 +1,87 @@
-# Hello I'm Osamudiamen Eweka 
-<a href="https://www.linkedin.com/in/osamudiamen-eweka-85b3b3261/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-## About Me
-Hi, I'm Osamudiamen Eweka, but you can call me Osas! I'm a cybersecurity graduate student at Utica University with a solid foundation in network security, cloud security, and incident response. My passion lies in securing hybrid cloud environments and exploring tools like, Splunk, Microsoft Sentinel, OWASP Amass for attack surface mapping. With hands-on experience from my internship at LOG(N) Pacific as a Cyber Security Support Engineer, where I designed and built a SOC and honeynet in Azure (using live traffic), along with a strong drive for continuous learning, I am eager to tackle complex challenges and make a meaningful impact in the cybersecurity field. Let’s connect and collaborate!
-
-I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn my Master's as a Cybersecurity Operation Professional. This major/program has provided insights into:
-* Programming for cybersecurity tasks
-* Frameworks and controls that inform security operations
-* SIEM tools for cybersecurity
-* Detecting and responding to incidents using an intrusion detection system
-* Performing packet capture and analysis
-
-Additionally, it has paved the way for me to pursue one of the entry-level following roles:
-* Cybersecurity Analyst
-* Security Analyst
-* SOC Analyst
-* Information Security Analyst
-* IT Security Analyst
-* Cyber Defense Analyst
-  
-### Education
-- **Master's in Cybersecurity**, Utica University (2025)
-- **Bachelor's in Computer Science**, Benson Idahosa University (2022)
-
-### Certifications								
-- CompTIA Security+ 
-- CompTIA Cloud + 
-- AWS Certified Solutions Architect - Associate
-- 
-### Skills  
-| Projects | Skills/Knowledge Gained | 
-| :--- |:---:|
-| [1]() - Conduct a security audit | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad` |
-| [2]() - Network Security | `TCP/IP model`,  `Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks` | 
-| [3]() - Linux & SQL | `Command-line Interface`, `SQL`, `Linux`, `Bash` | 
-| [4]() - Assets, Threats, & Vulnerabilities | `Authentication`, ` Vulnerability assessment`, `Cryptography`, `Asset Classification`, `Threat Modelling Analysis`|
-| [5]() - Detection & Response | `Incident Lifecycle`, `Incident Journal` |
-| [6]() - Tcpdump & Wireshark | `Packet Analyzer` | 
-| [7]() - IDS & SIEM | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk` |
-| [8]() - Automation with Python | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide`| 
+# Hello, I'm Osamudiamen Eweka (Osas) 👋  
+<a href="https://www.linkedin.com/in/osamudiamen-eweka-85b3b3261/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="mailto:oseweka1@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  <a href="https://github.com/Eweka01"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>  
 
 ---
 
-## Projects
-- [Incident Response Capstone: Comprehensive Investigation and Remediation Report](https://github.com/Eweka01/Incident-Response-Capstone-Comprehensive-Investigation-and-Remediation-Report/tree/main?tab=readme-ov-file)
-- [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/Eweka01/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-)
-- [Analyzed a Large Dataset of Fraud-in-Financial Payment-Services](https://github.com/Eweka01/Analyzed-a-Large-Dataset-of-Fraud-in-Financial-Payment-Services)
-- [Spam or Ham Email Classifier](https://github.com/Eweka01/Spam-or-Ham-Build-an-Email-Classifier/tree/main)
-- [Fraud Detection Dashboard using Splunk](https://github.com/Eweka01/Fraud-Detection-Dashboard-using-Splunk)
-- [Security Architecture for Tech Solutions Inc.](https://github.com/Eweka01/Security-Architecture-for-Tech-Solutions-Inc.)
-- [Attack Surface Mapping](https://github.com/Eweka01/Attack-Surface-Mapping/tree/main)
-- [Seven Domains of a Typical IT Infrastructure](https://github.com/Eweka01/-Seven-Domains-of-a-Typical-IT-Infrastructure-/tree/main)
-- [Vulnerability Assessment](https://github.com/Eweka01/Performing-a-Vulnerability-Assessment/tree/main)
-- [Packet Capture and Traffic Analysis](https://github.com/Eweka01/Performing-Packet-Capture-and-Traffic-Analysis/tree/main)
-- [Two-Factor Authentication (2FA) with OTP in Django for Enhanced Website Protection](https://github.com/Eweka01/Implementing-Two-Factor-Authentication-2FA-with-OTP-in-Django-for-Enhanced-Website-Protection)
-- [User Authentication and Access Controls](https://github.com/Eweka01/Applying-User-Authentication-and-Access-Controls/tree/main)
-- [Using Encryption to Enhance Confidentiality and Integrity](https://github.com/Eweka01/Using-Encryption-to-Enhance-Confidentiality-and-Integrity)
-- [Assessing Common Attack Vectors](https://github.com/Eweka01/Assessing-Common-Attack-Vectors/tree/main)
-- [Implementing an IT Security Policy](https://github.com/Eweka01/Implementing-an-IT-Security-Policy)
-- [Implementing Security Monitoring and Logging](https://github.com/Eweka01/Implementing-Security-Monitoring-and-Logging)
-- [Configuring Backup and Recovery Functions](https://github.com/Eweka01/-Configuring-Backup-and-Recovery-Functions)
-- [Performing Incident Response and Forensic Analysis](https://github.com/Eweka01/Performing-Incident-Response-and-Forensic-Analysis/tree/main)
-- [Information Security Plan for the Healthcare Industry](https://github.com/Eweka01/Comprehensive-Information-Security-Plan-for-the-Healthcare-Industry)
-- [Analysis of an OWASP Threat in the Context of AI-Enhanced Cybersecurity](https://github.com/Eweka01/Analysis-of-an-OWASP-Threat-in-the-Context-of-AI-Enhanced-Cybersecurity-)
-- [SOC Service: Focus on Incident Response](https://github.com/Eweka01/SOC-Service-Focus-on-Incident-Response)
-- [Intentional Insider Data Breach: A Case Study and Preventive Measures](https://github.com/Eweka01/Intentional-Insider-Data-Breach-A-Case-Study-and-Preventive-Measures)
-- [Perimeter and Network Security in a Defense-in-Depth Strategy ](https://github.com/Eweka01/Perimeter-and-Network-Security-in-a-Defense-in-Depth-Strategy-)
-- [Attack Surface Mapping](https://github.com/Eweka01/Attack-Surface-Mapping/tree/main)
+## About Me  
+Hi, I'm **Osamudiamen Eweka (Osas)**, a passionate **Cybersecurity Graduate Student** at Utica University, specializing in **network security**, **cloud security**, and **incident response**.  
 
----
-### Tools
-Several tools that I used: 
-* AWS Cloud
-* Azure cloud
-* Google cloud
-* OWASP Amass
-* Wireshark
-* Metasploit
-* Burp Suite
-* Google Workspace (Drive, Docs, Sheets, Slides)
-* Markdown Language 
-* Tcpdump
-* Linux OS
-* SQL
-* Splunk
-* Suricata
-* Python 
+With hands-on experience as a **Cyber Security Support Engineer Intern** at LOG(N) Pacific, I designed and implemented a **SOC and honeynet in Azure**, leveraging live traffic to detect threats. My expertise includes working with **Splunk**, **Microsoft Sentinel**, **OWASP Amass**, and other cutting-edge tools to secure hybrid cloud environments.  
 
-### Academic research
-- [Attacker Mindset for Security Professionals.pdf](https://github.com/user-attachments/files/16880155/Osamudiamen.Eweka.Reflection.on.The.Art.of.Attack-.Attacker.Mindset.for.Security.Professionals.pdf)
+I’ve built a robust portfolio showcasing my ability to tackle real-world cybersecurity challenges, including **incident response**, **threat detection**, and **vulnerability assessment**.  
 
+🔍 **I’m looking for opportunities as a**:  
+- Cybersecurity Analyst  
+- SOC Analyst  
+- Information Security Analyst  
+- IT Security Analyst  
+- Cyber Defense Analyst  
+
+🌟 **Let’s connect and secure the digital future together!**  
 
 ---
 
-## Cloud
+## 🔑 Skills  
+| **Category**           | **Skills/Knowledge Gained**                                                                 |  
+|-------------------------|---------------------------------------------------------------------------------------------|  
+| **Security Operations** | SIEM Tools (Splunk, Microsoft Sentinel), Incident Response, Intrusion Detection (Suricata)  |  
+| **Cloud Security**      | Azure, AWS, OWASP Amass, Regulatory Compliance (NIST)                                       |  
+| **Programming**         | Python, Bash, SQL, Automation                                                              |  
+| **Threat Analysis**     | Malware Analysis, Vulnerability Assessment, Threat Hunting                                 |  
+| **Network Security**    | Packet Analysis (Wireshark, Tcpdump), Firewall Management, Network Architecture            |  
 
-[![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/azure/)
-[![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+---
 
-### Network
+## 🛠 Tools  
+**Cloud Platforms**:  
+- ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+- ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+
+**Security Tools**:  
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+  <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Suricata-EF3B2D?style=for-the-badge&logo=Suricata&logoColor=white" />
+</div>  
 
 ---
 
-## Contact Me
-Feel free to reach out if you'd like to collaborate or discuss cybersecurity topics.
+## 📚 Education  
+- **Master's in Cybersecurity** (2025), Utica University  
+- **Bachelor's in Computer Science** (2022), Benson Idahosa University  
 
-- **Email**: oseweka1@gmail.com
-- **LinkedIn**: [linkedin.com/in/osamudiamen-eweka](https://www.linkedin.com/in/osamudiamen-eweka-85b3b3261/)
+---
+
+## 🏆 Certifications  
+- **CompTIA Security+**  
+- **AWS Certified Solutions Architect - Associate**  
+- **CompTIA Cloud+**  
+
+---
+
+## 🚀 Projects  
+Here are some highlights from my portfolio:  
+1. **[Incident Response Capstone: Comprehensive Investigation and Remediation Report](https://github.com/Eweka01/Incident-Response-Capstone-Comprehensive-Investigation-and-Remediation-Report/tree/main?tab=readme-ov-file)**  
+   - Investigated and mitigated complex incidents, creating detailed remediation strategies.  
+
+2. **[Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/Eweka01/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-)**  
+   - Designed a Security Operations Center (SOC) and honeynet in Azure for live threat detection.  
+
+3. **[Fraud Detection Dashboard using Splunk](https://github.com/Eweka01/Fraud-Detection-Dashboard-using-Splunk)**  
+   - Developed a real-time monitoring dashboard for financial fraud detection.  
+
+4. **[Attack Surface Mapping](https://github.com/Eweka01/Attack-Surface-Mapping/tree/main)**  
+   - Mapped attack surfaces using OWASP Amass to identify vulnerabilities.  
+
+5. **[Packet Capture and Traffic Analysis](https://github.com/Eweka01/Performing-Packet-Capture-and-Traffic-Analysis/tree/main)**  
+   - Analyzed network traffic to detect potential security breaches.  
+
+[Explore my complete portfolio here!](https://github.com/Eweka01)  
+
+---
+
+## 📫 Contact Me  
+Let’s connect to collaborate on exciting cybersecurity projects!  
+- **Email**: [oseweka1@gmail.com](mailto:oseweka1@gmail.com)  
+- **LinkedIn**: [Osamudiamen Eweka](https://www.linkedin.com/in/osamudiamen-eweka-85b3b3261/)  
