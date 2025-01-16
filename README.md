@@ -65,16 +65,18 @@ Here are some highlights from my portfolio:
 1. **[Incident Response Capstone: Comprehensive Investigation and Remediation Report](https://github.com/Eweka01/Incident-Response-Capstone-Comprehensive-Investigation-and-Remediation-Report/tree/main?tab=readme-ov-file)**  
    - Investigated and mitigated complex incidents, creating detailed remediation strategies.  
 
-2. **[Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/Eweka01/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-)**  
-   - Designed a Security Operations Center (SOC) and honeynet in Azure for live threat detection.  
-
-3. **[Fraud Detection Dashboard using Splunk](https://github.com/Eweka01/Fraud-Detection-Dashboard-using-Splunk)**  
+2. **[Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/Eweka01/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-)**
+   - Designed a Security Operations Center (SOC) and honeynet in Azure for live threat detection.
+     
+3. **[Malware and Phishing Email Analysis](https://github.com/Eweka01/Malware-and-Phishing-Email-Analysis/tree/main)**
+ 
+4. **[Fraud Detection Dashboard using Splunk](https://github.com/Eweka01/Fraud-Detection-Dashboard-using-Splunk)**  
    - Developed a real-time monitoring dashboard for financial fraud detection.  
 
-4. **[Attack Surface Mapping](https://github.com/Eweka01/Attack-Surface-Mapping/tree/main)**  
+5. **[Attack Surface Mapping](https://github.com/Eweka01/Attack-Surface-Mapping/tree/main)**  
    - Mapped attack surfaces using OWASP Amass to identify vulnerabilities.  
 
-5. **[Packet Capture and Traffic Analysis](https://github.com/Eweka01/Performing-Packet-Capture-and-Traffic-Analysis/tree/main)**  
+6. **[Packet Capture and Traffic Analysis](https://github.com/Eweka01/Performing-Packet-Capture-and-Traffic-Analysis/tree/main)**  
    - Analyzed network traffic to detect potential security breaches.  
 
 [Explore my complete portfolio here!](https://github.com/Eweka01)  
