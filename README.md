@@ -69,7 +69,8 @@ Here are some highlights from my portfolio:
    - Designed a Security Operations Center (SOC) and honeynet in Azure for live threat detection.
      
 3. **[Malware and Phishing Email Analysis](https://github.com/Eweka01/Malware-and-Phishing-Email-Analysis/tree/main)**
- 
+   - A comprehensive forensic investigation of ransomware activity, from phishing email analysis to malware behavior and impact assessment.
+
 4. **[Fraud Detection Dashboard using Splunk](https://github.com/Eweka01/Fraud-Detection-Dashboard-using-Splunk)**  
    - Developed a real-time monitoring dashboard for financial fraud detection.  
 
