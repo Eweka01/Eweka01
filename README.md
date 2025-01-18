@@ -71,13 +71,16 @@ Here are some highlights from my portfolio:
 3. **[Malware and Phishing Email Analysis](https://github.com/Eweka01/Malware-and-Phishing-Email-Analysis/tree/main)**
    - A comprehensive forensic investigation of ransomware activity, from phishing email analysis to malware behavior and impact assessment.
 
-4. **[Fraud Detection Dashboard using Splunk](https://github.com/Eweka01/Fraud-Detection-Dashboard-using-Splunk)**  
+4. **[Suricata IPS Configuration](https://github.com/Eweka01/Suricata-IPS-Configuration-and-Deployment-for-Angels-Scooters)**
+   - Configured Suricata as an Intrusion Prevention System (IPS) to protect the "Angels & Scooters" website from malicious traffic using custom and managed rulesets.
+     
+5. **[Fraud Detection Dashboard using Splunk](https://github.com/Eweka01/Fraud-Detection-Dashboard-using-Splunk)**  
    - Developed a real-time monitoring dashboard for financial fraud detection.  
 
-5. **[Attack Surface Mapping](https://github.com/Eweka01/Attack-Surface-Mapping/tree/main)**  
+6. **[Attack Surface Mapping](https://github.com/Eweka01/Attack-Surface-Mapping/tree/main)**  
    - Mapped attack surfaces using OWASP Amass to identify vulnerabilities.  
 
-6. **[Packet Capture and Traffic Analysis](https://github.com/Eweka01/Performing-Packet-Capture-and-Traffic-Analysis/tree/main)**  
+7. **[Packet Capture and Traffic Analysis](https://github.com/Eweka01/Performing-Packet-Capture-and-Traffic-Analysis/tree/main)**  
    - Analyzed network traffic to detect potential security breaches.  
 
 [Explore my complete portfolio here!](https://github.com/Eweka01)  
