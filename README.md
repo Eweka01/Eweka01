@@ -62,7 +62,7 @@ I’ve built a robust portfolio showcasing my ability to tackle real-world cyber
 
 ## 🚀 Projects  
 Here are some highlights from my portfolio:  
-1. **[Incident Response Capstone: Comprehensive Investigation and Remediation Report](https://github.com/Eweka01/Incident-Response-Capstone-Comprehensive-Investigation-and-Remediation-Report/tree/main?tab=readme-ov-file)**  
+1. **[End-to-End Cybersecurity Investigation & Threat Remediation Capstone](https://github.com/Eweka01/End-to-End-Cybersecurity-Investigation-Threat-Remediation-Capstone)**  
    - Investigated and mitigated complex incidents, creating detailed remediation strategies.  
 
 2. **[Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/Eweka01/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-)**
