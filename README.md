@@ -81,7 +81,10 @@ Here are some highlights from my portfolio:
    - Mapped attack surfaces using OWASP Amass to identify vulnerabilities.  
 
 7. **[Packet Capture and Traffic Analysis](https://github.com/Eweka01/Performing-Packet-Capture-and-Traffic-Analysis/tree/main)**  
-   - Analyzed network traffic to detect potential security breaches.  
+   - Analyzed network traffic to detect potential security breaches.
+     
+8.  **[Snort IDS/IPS Configuration and Analysis](https://github.com/Eweka01/Snort-IDS-IPS-Configuration-and-Analysis)**
+   - This project involved configuring and deploying Snort IDS/IPS on a firewall to monitor network traffic, log alerts, and successfully detect a malicious User-Agent string indicating potential network threats.
 
 [Explore my complete portfolio here!](https://github.com/Eweka01)  
 
