@@ -4,7 +4,7 @@
 ---
 
 ## About Me  
-Hi, I'm **Osamudiamen Eweka (sam)**, a passionate **Cybersecurity Graduate Student** at Utica University, specializing in **network security**, **cloud security**, and **incident response**.  
+Hi, I'm **Osamudiamen Eweka (Sam)**, a passionate **Cybersecurity Graduate Student** at Utica University, specializing in **network security**, **cloud security**, and **incident response**.  
 
 With hands-on experience as a **Cyber Security Support Engineer Intern** at LOG(N) Pacific, I designed and implemented a **SOC and honeynet in Azure**, leveraging live traffic to detect threats. My expertise includes working with **Splunk**, **Microsoft Sentinel**, **OWASP Amass**, and other cutting-edge tools to secure hybrid cloud environments.  
 
