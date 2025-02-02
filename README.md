@@ -1,10 +1,10 @@
-# Hello, I'm Osamudiamen Eweka (Sam) 👋  
+# Hello, I'm Osamudiamen Eweka (Gabriel) 👋  
 <a href="https://www.linkedin.com/in/osamudiamen-eweka-85b3b3261/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="mailto:oseweka2@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  <a href="https://github.com/Eweka01"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>  
 
 ---
 
 ## About Me  
-Hi, I'm **Osamudiamen Eweka (Sam)**, a passionate **Cybersecurity Graduate Student** at Utica University, specializing in **network security**, **cloud security**, and **incident response**.  
+Hi, I'm **Osamudiamen Eweka (Gabriel)**, a passionate **Cybersecurity Graduate Student** at Utica University, specializing in **network security**, **cloud security**, and **incident response**.  
 
 With hands-on experience as a **Cyber Security Support Engineer Intern** at LOG(N) Pacific, I designed and implemented a **SOC and honeynet in Azure**, leveraging live traffic to detect threats. My expertise includes working with **Splunk**, **Microsoft Sentinel**, **OWASP Amass**, and other cutting-edge tools to secure hybrid cloud environments.  
 
