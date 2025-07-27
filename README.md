@@ -1,96 +1,101 @@
-# Hello, I'm Osamudiamen Eweka (Gabriel) 👋  
-<a href="https://www.linkedin.com/in/osamudiamen-eweka-85b3b3261/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="mailto:oseweka2@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  <a href="https://github.com/Eweka01"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>  
+# Hello, I’m Osamudiamen Eweka (Gabriel) 👋  
+
+<a href="https://www.linkedin.com/in/osamudiamen-eweka-85b3b3261/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+<a href="mailto:oseweka2@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  
+<a href="https://github.com/Eweka01"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>  
 
 ---
 
-## About Me  
-Hi, I'm **Osamudiamen Eweka (Gabriel)**, a passionate **Cybersecurity Graduate Student** at Utica University, specializing in **network security**, **cloud security**, and **incident response**.  
+## 🚀 About Me  
 
-With hands-on experience as a **Cyber Security Support Engineer Intern** at LOG(N) Pacific, I designed and implemented a **SOC and honeynet in Azure**, leveraging live traffic to detect threats. My expertise includes working with **Splunk**, **Microsoft Sentinel**, **OWASP Amass**, and other cutting-edge tools to secure hybrid cloud environments.  
+I’m **Osamudiamen Eweka (Gabriel)** – a **Cybersecurity & Cloud Engineer** transitioning into **AWS DevOps/DevSecOps**.  
 
-I’ve built a robust portfolio showcasing my ability to tackle real-world cybersecurity challenges, including **incident response**, **threat detection**, and **vulnerability assessment**.  
+- 🎓 **Master’s in Cybersecurity (Utica University)** with a strong foundation in **SOC operations, network security, and cloud security**.  
+- 🛡 **Hands-on SOC & Cloud Security Experience** – built a **SOC + Honeynet in Azure**, detecting live attacks and automating threat detection using Microsoft Sentinel & Splunk.  
+- 🌩 **Now expanding into AWS DevOps & DevSecOps** – mastering **Linux administration, Terraform, Kubernetes (EKS), CI/CD pipelines, and security automation tools**.  
 
-🔍 **I’m looking for opportunities as a**:  
-- Cybersecurity Analyst  
-- SOC Analyst  
-- Information Security Analyst  
-- IT Security Analyst  
-- Cyber Defense Analyst  
-
-🌟 **Let’s connect and secure the digital future together!**  
+💡 **What drives me:** Building **secure, automated, and scalable cloud infrastructures** that bridge cybersecurity and DevOps.  
 
 ---
 
-## 🔑 Skills  
-| **Category**           | **Skills/Knowledge Gained**                                                                 |  
-|-------------------------|---------------------------------------------------------------------------------------------|  
-| **Security Operations** | SIEM Tools (Splunk, Microsoft Sentinel), Incident Response, Intrusion Detection (Suricata)  |  
-| **Cloud Security**      | Azure, AWS, OWASP Amass, Regulatory Compliance (NIST)                                       |  
-| **Programming**         | Python, Bash, SQL, Automation                                                              |  
-| **Threat Analysis**     | Malware Analysis, Vulnerability Assessment, Threat Hunting                                 |  
-| **Network Security**    | Packet Analysis (Wireshark, Tcpdump), Firewall Management, Network Architecture            |  
+## 🎯 Career Focus  
+
+- **AWS DevOps / DevSecOps Engineer**  
+- **Cloud Security Engineer (AWS + Azure)**  
+- **Infrastructure-as-Code & CI/CD Automation**  
+- **Security by Design – integrating SAST, SCA & DAST into pipelines**  
 
 ---
 
-## 🛠 Tools  
-**Cloud Platforms**:  
-- ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
-- ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+## 🔑 What I’m Learning & Applying  
 
-**Security Tools**:  
+| **Focus Area**         | **Technologies & Tools**                                                                 |
+|------------------------|-------------------------------------------------------------------------------------------|
+| **Linux Administration** | Ubuntu, RedHat, Bash scripting, Ansible, Security Hardening |
+| **AWS Cloud**          | VPC Networking, IAM, S3, Route53, Lambda, CloudFormation |
+| **DevOps/Automation**  | Terraform, Kubernetes (EKS), Jenkins, GitHub Actions, Docker |
+| **Security Automation**| SonarQube, Snyk, OWASP ZAP, Security Gatekeeping in CI/CD |
+| **SOC & Threat Analysis** | Microsoft Sentinel, Splunk, Suricata, Snort, OWASP Amass |
+
+---
+
+## 🛠 Tools & Platforms  
+
+**Cloud Platforms**  
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+
+**DevOps & Security Tools**  
 <div>
-  <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Suricata-EF3B2D?style=for-the-badge&logo=Suricata&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>  
 
 ---
 
-## 📚 Education  
-- **Master's in Cybersecurity** (2025), Utica University  
-- **Bachelor's in Computer Science** (2022), Benson Idahosa University  
-
----
-
 ## 🏆 Certifications  
+
 - **CompTIA Security+**  
-- **AWS Certified Solutions Architect - Associate**  
-- **CompTIA Cloud+**  
+- **AWS Certified Solutions Architect – Associate**  
+- **AWS Certified DevOps Engineer – Professional (in progress)**  
+- **AWS Certified Security – Specialty (in progress)**  
 
 ---
 
-## 🚀 Projects  
-Here are some highlights from my portfolio:  
-1. **[End-to-End Cybersecurity Investigation & Threat Remediation Capstone](https://github.com/Eweka01/End-to-End-Cybersecurity-Investigation-Threat-Remediation-Capstone)**  
-   - Investigated and mitigated complex incidents, creating detailed remediation strategies.  
+## 🚀 My Project Journey  
 
-2. **[Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/Eweka01/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-)**
-   - Designed a Security Operations Center (SOC) and honeynet in Azure for live threat detection.
-     
-3. **[Malware and Phishing Email Analysis](https://github.com/Eweka01/Malware-and-Phishing-Email-Analysis/tree/main)**
-   - A comprehensive forensic investigation of ransomware activity, from phishing email analysis to malware behavior and impact assessment.
+### ✅ Cybersecurity + SOC Projects  
+- [**SOC + Honeynet in Azure (Live Threat Detection)**](https://github.com/Eweka01/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-)  
+- [**Malware & Phishing Email Analysis**](https://github.com/Eweka01/Malware-and-Phishing-Email-Analysis/tree/main)  
+- [**Snort IDS/IPS Configuration & Threat Analysis**](https://github.com/Eweka01/Snort-IDS-IPS-Configuration-and-Analysis)  
 
-4. **[Suricata IPS Configuration](https://github.com/Eweka01/Suricata-IPS-Configuration-and-Deployment-for-Angels-Scooters)**
-   - Configured Suricata as an Intrusion Prevention System (IPS) to protect the "Angels & Scooters" website from malicious traffic using custom and managed rulesets.
-     
-5. **[Fraud Detection Dashboard using Splunk](https://github.com/Eweka01/Fraud-Detection-Dashboard-using-Splunk)**  
-   - Developed a real-time monitoring dashboard for financial fraud detection.  
+### ✅ Cloud & DevSecOps Projects *(In Progress)*  
+- **Linux Administration Bootcamp Projects** – mastering Ubuntu/RedHat + security hardening  
+- **AWS Networking + VPC Projects** – designing secure multi-tier architectures  
+- **Terraform + Kubernetes (EKS)** – automating AWS cloud infrastructure  
+- **CI/CD DevSecOps Pipeline** – Jenkins + GitHub Actions + SonarQube + Snyk + OWASP ZAP  
 
-6. **[Attack Surface Mapping](https://github.com/Eweka01/Attack-Surface-Mapping/tree/main)**  
-   - Mapped attack surfaces using OWASP Amass to identify vulnerabilities.  
-
-7. **[Packet Capture and Traffic Analysis](https://github.com/Eweka01/Performing-Packet-Capture-and-Traffic-Analysis/tree/main)**  
-   - Analyzed network traffic to detect potential security breaches.
-     
-8.  **[Snort IDS/IPS Configuration and Analysis](https://github.com/Eweka01/Snort-IDS-IPS-Configuration-and-Analysis)**
-   - This project involved configuring and deploying Snort IDS/IPS on a firewall to monitor network traffic, log alerts, and successfully detect a malicious User-Agent string indicating potential network threats.
-
-[Explore my complete portfolio here!](https://github.com/Eweka01)  
+[🔗 Explore my portfolio here!](https://github.com/Eweka01)  
 
 ---
 
-## 📫 Contact Me  
-Let’s connect to collaborate on exciting cybersecurity projects!  
-- **Email**: [oseweka1@gmail.com](mailto:oseweka2@gmail.com)  
-- **LinkedIn**: [Osamudiamen Eweka](https://www.linkedin.com/in/osamudiamen-eweka-85b3b3261/)  
+## 📚 Current Learning Path  
+
+📌 **Linux System Administration Bootcamp** → Foundations for automation & security  
+📌 **AWS VPC & Networking Mastery** → Secure cloud networking at scale  
+📌 **Terraform + Kubernetes Projects** → Infrastructure-as-Code & orchestration  
+📌 **DevSecOps Pipeline Security** → SAST, SCA & DAST integration  
+📌 **Real-world AWS DevOps Projects** → Deployments, automation & monitoring  
+
+---
+
+## 📫 Let’s Connect  
+
+💌 **Email** → [oseweka2@gmail.com](mailto:oseweka2@gmail.com)  
+🔗 **LinkedIn** → [Osamudiamen Eweka](https://www.linkedin.com/in/osamudiamen-eweka-85b3b3261/)  
+
+💡 *Always open to opportunities in AWS DevOps, Cloud Security & DevSecOps Engineering.*  
