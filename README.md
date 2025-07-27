@@ -8,13 +8,13 @@
 
 ## 🚀 About Me  
 
-I’m **Osamudiamen Eweka (Gabriel)** – a **Cybersecurity & Cloud Engineer** transitioning into **AWS DevOps/DevSecOps**.  
+I’m Osamudiamen Eweka (Gabriel) – a Cybersecurity professional transitioning into AWS DevSecOps.
 
-- 🎓 **Master’s in Cybersecurity (Utica University)** with a strong foundation in **SOC operations, network security, and cloud security**.  
-- 🛡 **Hands-on SOC & Cloud Security Experience** – built a **SOC + Honeynet in Azure**, detecting live attacks and automating threat detection using Microsoft Sentinel & Splunk.  
-- 🌩 **Now expanding into AWS DevOps & DevSecOps** – mastering **Linux administration, Terraform, Kubernetes (EKS), CI/CD pipelines, and security automation tools**.  
+I started my journey as a Systems Administrator, where I realized how much I love blending technology, security, and automation to protect critical systems. Since then, I’ve gained hands-on experience in SOC operations, Azure cloud security, and incident response, and now I’m expanding into AWS DevOps & DevSecOps.
 
-💡 **What drives me:** Building **secure, automated, and scalable cloud infrastructures** that bridge cybersecurity and DevOps.  
+I’m passionate about building secure, automated, and scalable cloud infrastructures using Terraform, Kubernetes, CI/CD pipelines, and security tools like SonarQube, Snyk, and OWASP ZAP.
+
+💡 Always learning. Always securing. Always automating.
 
 ---
 
