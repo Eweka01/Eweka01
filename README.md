@@ -60,7 +60,6 @@ and help others understand the "why" behind infrastructure decisions.
 
 ---
 
-## Contact
-- 📍 Brooklyn, NY (Open to remote)  
-- ✉️ **oseweka2@gmail.com**  
-- 🔗 **LinkedIn:** <https://www.linkedin.com/in/osamudiamen-eweka-85b3b3261/>
+#### Ongoing Projects Porfolio Link Below 👇👇
+
+## https://medium.com/@oseweka1
