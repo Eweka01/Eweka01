@@ -21,8 +21,6 @@ I design reproducible infrastructure, wire up CI/CD with security gates, and kee
 
 AWS, VPC, Subnets, Security Groups, IAM, EC2, S3, RDS, Lambda, Route53, CloudWatch, Terraform, CloudFormation, GitHub Actions, Jenkins, Docker, Linux, Bash, Monitoring, Cost Optimization, Networking, High Availability
 
-
-
 ---
 
 ## Core Expertise
@@ -35,7 +33,7 @@ AWS, VPC, Subnets, Security Groups, IAM, EC2, S3, RDS, Lambda, Route53, CloudWat
 
 ---
 
-## Recent Wins
+## Recent Achievements
 - Built an **AI-assisted CI/CD** pipeline that ships a containerized app to **ECS Fargate** end-to-end  
 - Stood up a **real-time stock analytics pipeline** on **Kinesis + Lambda + DynamoDB + S3 + Athena + SNS**  
 - Deployed a **multi-node Ansible** automation lab on DigitalOcean for repeatable fleet tasks  
