@@ -1,32 +1,27 @@
 # DevOps / CloudEngineer — Building Infrastructure That Scales Securely
 
-Hi, I’m **Osamudiamen (Gabriel) Eweka** — a cybersecurity-minded Cloud & DevOps engineer focused on **secure automation on AWS**.  
-I design reproducible infrastructure, wire up CI/CD with security gates, and keep systems observable from day one.
-
 <a href="https://www.linkedin.com/in/gabriel-eweka//"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:oseweka2@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/Eweka01"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://medium.com/@oseweka1"><img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
 
----
-
 ## What I Bring
 Proven ability to wear multiple hats while delivering consistent results.  
 From VPC design and automation to Kubernetes-ready pipelines, I help teams ship faster without sacrificing reliability.
 
-
-
-AWS, VPC, Subnets, Security Groups, IAM, EC2, S3, RDS, Lambda, Route53, CloudWatch, Terraform, CloudFormation, GitHub Actions, Jenkins, Docker, Linux, Bash, Monitoring, Cost Optimization, Networking, High Availability
-
 ---
 
 ## Core Expertise
-- **AWS & Cloud Networking** — VPCs, IAM, S3, Lambda, Route53, CloudWatch, SNS/SQS  
-- **Containers & Orchestration** — Docker; EKS fundamentals; ECS/Fargate deployments  
-- **Infrastructure as Code** — Terraform, CloudFormation; modular, reusable stacks  
-- **CI/CD & GitOps** — GitHub Actions / Jenkins, artifact caching, staged deploys, policy checks  
-- **DevSecOps** — SonarQube, Snyk, OWASP ZAP; shift-left security in pipelines  
-- **Observability** — CloudWatch metrics/logs, guardrails, and actionable alerts
+- **Cloud architecture:** AWS VPC, subnets, routing, IAM, HA/DR patterns
+  
+- **Infrastructure as Code:** Terraform/CloudFormation modules for repeatable environments
+- **CI/CD:** GitHub Actions/Jenkins—build/test/deploy, blue-green & canary releases, automated rollbacks
+- **Containers:** Docker; ECS Fargate; EKS (foundations); image versioning and releases
+- **Observability & Ops:** CloudWatch logs/metrics/alarms, runbooks, incident response basics
+- **Cost & performance:** rightsizing, autoscaling, caching, budgets & alerts
+- **Collaboration:** clear diagrams, READMEs, and PR reviews that keep everyone aligned
+  
+AWS, VPC, Subnets, Security Groups, IAM, Route 53, EC2, S3, RDS, Lambda, CloudFront, CloudWatch, Terraform, CloudFormation, GitHub Actions, Jenkins, Docker, ECS, EKS, Git, GitOps, Blue-Green, Canary, Autoscaling, High Availability, Disaster Recovery, Monitoring, Alerting, Cost Optimization, Linux, Bash
 
 ---
 
@@ -39,19 +34,59 @@ AWS, VPC, Subnets, Security Groups, IAM, EC2, S3, RDS, Lambda, Route53, CloudWat
 ---
 
 ## Featured Projects
-- **Azure SOC + Honeynet (Live Threat Detection)**  
-  <https://github.com/Eweka01/Building-a-SOC-Honeynet-in-Azure-Live-Traffic->
-- **AI-Driven CI/CD → ECS Fargate (2048 Game Case Study)**  
-  Repo: *(coming soon)* · Article: *From Prompt to Production* (Medium)
+
+### ☁️ Cloud Engineering Projects
 - **Near Real-Time Stock Analytics on AWS**  
-  Architecture: Kinesis → Lambda → DynamoDB/S3 → Athena → SNS (alerts)  
-  Article: <https://medium.com/@oseweka1/from-feed-to-signal-building-a-near-real-time-stock-analytics-pipeline-on-aws-kinesis-lambda-bb9dd78b146e>
-- **Ansible Multinode Automation (DO droplets)**  
-  Fleet user/group mgmt, service checks, and NGINX/SSH verification
+  Kinesis → Lambda → DynamoDB/S3 → Athena → SNS (alerts)  
+  **Stack:** AWS (Kinesis, Lambda, DynamoDB, S3, Athena, SNS), Python, CloudWatch  
+  **Links:** [Repo](repo) · [Article](https://medium.com/@oseweka1/from-feed-to-signal-building-a-near-real-time-stock-analytics-pipeline-on-aws-kinesis-lambda-bb9dd78b146e)
+
+- **AWS VPC & Networking Lab**  
+  Multi-AZ subnets, routing, NACL vs SG rules, HA patterns  
+  **Stack:** AWS VPC, IGW/NAT, Route 53, CloudWatch  
+  **Links:** [Repo](repo)
+
+- **S3 Static Website + CloudFront**  
+  Origin access control, HTTPS, invalidations, cost-aware caching  
+  **Stack:** S3, CloudFront, ACM, Route 53  
+  **Links:** [Repo](repo)
+
+---
+
+### 🔧 DevOps Projects
+- **AI-Driven CI/CD → ECS Fargate (2048 Case Study)**  
+  Push-to-deploy with automated build/test/release; zero-touch shipping  
+  **Stack:** GitHub Actions, Docker, ECR, CodeBuild, CodePipeline, ECS Fargate  
+  **Links:** [Repo](repo) · *Article:* From Prompt to Production (Medium)
+
+- **Ansible Multinode Automation (DigitalOcean)**  
+  Fleet user/group mgmt, service checks, NGINX/SSH verification  
+  **Stack:** Ansible, Linux, DO droplets, Bash  
+  **Links:** [Repo](repo)
+
+- **Terraform Modules (Reusable IaC)**  
+  Module patterns for VPC, ECS services, and S3 + CloudFront sites  
+  **Stack:** Terraform, AWS  
+  **Links:** [Repo](repo)
+
+---
+
+### 🛡️ SOC Analyst Projects
+- **Azure SOC + Honeynet (Live Threat Detection)**  
+  Deployed attack-attracting resources with Sentinel dashboards & detections  
+  **Stack:** Azure, Microsoft Sentinel, Log Analytics, Threat Intel  
+  **Links:** [Repo](https://github.com/Eweka01/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-)
+
 - **Malware & Phishing Email Analysis**  
-  <https://github.com/Eweka01/Malware-and-Phishing-Email-Analysis/tree/main>
+  Header analysis, IOC extraction, sandbox triage, YARA notes  
+  **Stack:** Splunk, Python tooling, email forensics  
+  **Links:** [Repo](https://github.com/Eweka01/Malware-and-Phishing-Email-Analysis/tree/main)
+
 - **Snort IDS/IPS Configuration & Threat Analysis**  
-  <https://github.com/Eweka01/Snort-IDS-IPS-Configuration-and-Analysis>
+  Rule tuning, alert triage, packet captures, reports  
+  **Stack:** Snort, Wireshark, Linux  
+  **Links:** [Repo](https://github.com/Eweka01/Snort-IDS-IPS-Configuration-and-Analysis)
+
 
 > More projects: <https://github.com/Eweka01>
 
