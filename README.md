@@ -35,43 +35,13 @@ AWS, VPC, Subnets, Security Groups, IAM, Route 53, EC2, S3, RDS, Lambda, CloudFr
 
 ## Featured Projects
 
-### ☁️ Cloud Engineering Projects [View](https://github.com/Eweka01/Cloud-Projects/tree/main/projects)
----
+### ☁️ Cloud Engineering Projects [Repo](https://github.com/Eweka01/Cloud-Projects/tree/main/projects)
+
 
 ### 🔧 DevOps Projects
-- **AI-Driven CI/CD → ECS Fargate (2048 Case Study)**  
-  Push-to-deploy with automated build/test/release; zero-touch shipping  
-  **Stack:** GitHub Actions, Docker, ECR, CodeBuild, CodePipeline, ECS Fargate  
-  **Links:** [Repo](repo) · *Article:* From Prompt to Production (Medium)
 
-- **Ansible Multinode Automation (DigitalOcean)**  
-  Fleet user/group mgmt, service checks, NGINX/SSH verification  
-  **Stack:** Ansible, Linux, DO droplets, Bash  
-  **Links:** [Repo](repo)
-
-- **Terraform Modules (Reusable IaC)**  
-  Module patterns for VPC, ECS services, and S3 + CloudFront sites  
-  **Stack:** Terraform, AWS  
-  **Links:** [Repo](repo)
-
----
 
 ### 🛡️ SOC Analyst Projects
-- **Azure SOC + Honeynet (Live Threat Detection)**  
-  Deployed attack-attracting resources with Sentinel dashboards & detections  
-  **Stack:** Azure, Microsoft Sentinel, Log Analytics, Threat Intel  
-  **Links:** [Repo](https://github.com/Eweka01/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-)
-
-- **Malware & Phishing Email Analysis**  
-  Header analysis, IOC extraction, sandbox triage, YARA notes  
-  **Stack:** Splunk, Python tooling, email forensics  
-  **Links:** [Repo](https://github.com/Eweka01/Malware-and-Phishing-Email-Analysis/tree/main)
-
-- **Snort IDS/IPS Configuration & Threat Analysis**  
-  Rule tuning, alert triage, packet captures, reports  
-  **Stack:** Snort, Wireshark, Linux  
-  **Links:** [Repo](https://github.com/Eweka01/Snort-IDS-IPS-Configuration-and-Analysis)
-
 
 > More projects: <https://github.com/Eweka01>
 
