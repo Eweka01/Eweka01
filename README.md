@@ -10,13 +10,10 @@ I design reproducible infrastructure, wire up CI/CD with security gates, and kee
 
 ---
 
-**Current Status:** Cloud Engineer (AWS) — training toward DevOps (CI/CD, IaC, Docker)
-
 ## What I Bring
-- **Cloud-first engineering:** Design, build, and operate AWS workloads (VPC, IAM, EC2, S3, RDS, Lambda); networking & high availability
-- **Infrastructure as Code:** Terraform & CloudFormation for repeatable, versioned environments
-- **CI/CD foundations:** GitHub Actions/Jenkins pipelines with automated build/test/deploy and safe rollbacks
-- **Clear docs:** Runbooks, diagrams, and READMEs that help teams move faster
+Proven ability to wear multiple hats while delivering consistent results.  
+From VPC design and automation to Kubernetes-ready pipelines, I help teams ship faster without sacrificing reliability.
+
 
 
 AWS, VPC, Subnets, Security Groups, IAM, EC2, S3, RDS, Lambda, Route53, CloudWatch, Terraform, CloudFormation, GitHub Actions, Jenkins, Docker, Linux, Bash, Monitoring, Cost Optimization, Networking, High Availability
