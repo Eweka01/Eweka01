@@ -35,22 +35,7 @@ AWS, VPC, Subnets, Security Groups, IAM, Route 53, EC2, S3, RDS, Lambda, CloudFr
 
 ## Featured Projects
 
-### ☁️ Cloud Engineering Projects
-- **Near Real-Time Stock Analytics on AWS**  
-  Kinesis → Lambda → DynamoDB/S3 → Athena → SNS (alerts)  
-  **Stack:** AWS (Kinesis, Lambda, DynamoDB, S3, Athena, SNS), Python, CloudWatch  
-  **Links:** [Repo](repo) · [Article](https://medium.com/@oseweka1/from-feed-to-signal-building-a-near-real-time-stock-analytics-pipeline-on-aws-kinesis-lambda-bb9dd78b146e)
-
-- **AWS VPC & Networking Lab**  
-  Multi-AZ subnets, routing, NACL vs SG rules, HA patterns  
-  **Stack:** AWS VPC, IGW/NAT, Route 53, CloudWatch  
-  **Links:** [Repo](repo)
-
-- **S3 Static Website + CloudFront**  
-  Origin access control, HTTPS, invalidations, cost-aware caching  
-  **Stack:** S3, CloudFront, ACM, Route 53  
-  **Links:** [Repo](repo)
-
+### ☁️ Cloud Engineering Projects [View](https://github.com/Eweka01/Cloud-Projects/tree/main/projects)
 ---
 
 ### 🔧 DevOps Projects
