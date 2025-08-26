@@ -44,41 +44,19 @@ AWS, VPC, Subnets, Security Groups, IAM, Route 53, EC2, S3, RDS, Lambda, CloudFr
 ### 🛡️ SOC Analyst Projects
 
 > More projects: <https://github.com/Eweka01>
-
----
-
-## Stack & Tools
-**Cloud:** AWS, Azure  
-**IaC:** Terraform, CloudFormation  
-**CI/CD:** GitHub Actions, Jenkins  
-**Containers:** Docker, ECS/Fargate, EKS (foundations)  
-**Security:** SonarQube, Snyk, OWASP ZAP, Splunk, Microsoft Sentinel  
-**OS & Automation:** Linux (Ubuntu/RedHat), Bash, Ansible
-
----
-
-## Writing & Guides
-- Technical posts and DevOps insights on Medium:  
-  **Portfolio:** <https://medium.com/@osomudeyazudonu>  
-  **Case Study:** *Near Real-Time Stock Analytics on AWS* → *(see link above)*
-
----
-
-## Certifications
-- **CompTIA Security+**  
-- **Targeting:** AWS Solutions Architect – Associate (booking), AWS DevOps Engineer – Professional, AWS Security – Specialty
-
 ---
 
 ## What Excites Me
-Working with teams that value **secure automation**, **clear communication**, and **measurable reliability**.  
-Let’s turn infra from a blocker into a product advantage.
+Working with teams that value both technical excellence and clear communication.
+I thrive in environments where I can architect solutions, implement best practices,
+and help others understand the "why" behind infrastructure decisions.
 
 ---
 
 ## Currently Seeking
-- **Remote** roles across **DevOps / DevSecOps / Platform / SRE** (US/EU-friendly time zones)  
-- Keen on **SaaS**, **fintech**, and **infra-heavy** products
+- Remote mid-level - senior DevOps opportunities globally
+- Especially interested in SaaS, fintech, and infrastructure-heavy products
+- Open to roles as Platform Engineer, SRE, or DevOps Engineer
 
 ---
 
