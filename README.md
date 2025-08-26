@@ -1,101 +1,95 @@
-# Hello, I’m Osamudiamen Eweka (Gabriel) 👋  
+# DevOps / DevSecOps Engineer — Building Infrastructure That Scales Securely
 
-<a href="https://www.linkedin.com/in/gabriel-eweka//"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
-<a href="mailto:oseweka2@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  
-<a href="https://github.com/Eweka01"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>  
+Hi, I’m **Osamudiamen (Gabriel) Eweka** — a cybersecurity-minded Cloud & DevOps engineer focused on **secure automation on AWS**.  
+I design reproducible infrastructure, wire up CI/CD with security gates, and keep systems observable from day one.
 
----
-
-## 🚀 About Me  
-
-I’m Osamudiamen Eweka (Gabriel) – a Cybersecurity professional transitioning into AWS DevSecOps.
-
-I started my journey as a Systems Administrator, where I realized how much I love blending technology, security, and automation to protect critical systems. Since then, I’ve gained hands-on experience in SOC operations, Azure cloud security, and incident response, and now I’m expanding into AWS DevOps & DevSecOps.
-
-I’m passionate about building secure, automated, and scalable cloud infrastructures using Terraform, Kubernetes, CI/CD pipelines, and security tools like SonarQube, Snyk, and OWASP ZAP.
-
-💡 Always learning. Always securing. Always automating.
+<a href="https://www.linkedin.com/in/osamudiamen-eweka-85b3b3261/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:oseweka2@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Eweka01"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://medium.com/@osomudeyazudonu"><img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
 
 ---
 
-## 🎯 Career Focus  
-
-- **AWS DevOps / DevSecOps Engineer**  
-- **Cloud Security Engineer (AWS + Azure)**  
-- **Infrastructure-as-Code & CI/CD Automation**  
-- **Security by Design – integrating SAST, SCA & DAST into pipelines**  
+## What I Bring
+- **Security-first engineering**: bake SAST/SCA/DAST into CI/CD; IAM-least privilege by default  
+- **Speed with control**: infra as code + GitOps → predictable releases and quick rollbacks  
+- **Clear docs**: runbooks, diagrams, and READMEs that help teams move faster (and safer)
 
 ---
 
-## 🔑 What I’m Learning & Applying  
-
-| **Focus Area**         | **Technologies & Tools**                                                                 |
-|------------------------|-------------------------------------------------------------------------------------------|
-| **Linux Administration** | Ubuntu, RedHat, Bash scripting, Ansible, Security Hardening |
-| **AWS Cloud**          | VPC Networking, IAM, S3, Route53, Lambda, CloudFormation |
-| **DevOps/Automation**  | Terraform, Kubernetes (EKS), Jenkins, GitHub Actions, Docker |
-| **Security Automation**| SonarQube, Snyk, OWASP ZAP, Security Gatekeeping in CI/CD |
-| **SOC & Threat Analysis** | Microsoft Sentinel, Splunk, Suricata, Snort, OWASP Amass |
+## Core Expertise
+- **AWS & Cloud Networking** — VPCs, IAM, S3, Lambda, Route53, CloudWatch, SNS/SQS  
+- **Containers & Orchestration** — Docker; EKS fundamentals; ECS/Fargate deployments  
+- **Infrastructure as Code** — Terraform, CloudFormation; modular, reusable stacks  
+- **CI/CD & GitOps** — GitHub Actions / Jenkins, artifact caching, staged deploys, policy checks  
+- **DevSecOps** — SonarQube, Snyk, OWASP ZAP; shift-left security in pipelines  
+- **Observability** — CloudWatch metrics/logs, guardrails, and actionable alerts
 
 ---
 
-## 🛠 Tools & Platforms  
-
-**Cloud Platforms**  
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
-
-**DevOps & Security Tools**  
-<div>
-  <img src="https://img.shields.io/badge/-Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-</div>  
+## Recent Wins
+- Built an **AI-assisted CI/CD** pipeline that ships a containerized app to **ECS Fargate** end-to-end  
+- Stood up a **real-time stock analytics pipeline** on **Kinesis + Lambda + DynamoDB + S3 + Athena + SNS**  
+- Deployed a **multi-node Ansible** automation lab on DigitalOcean for repeatable fleet tasks  
+- Created an **Azure SOC honeynet** capturing live traffic with Sentinel dashboards & detections
 
 ---
 
-## 🏆 Certifications  
+## Featured Projects
+- **Azure SOC + Honeynet (Live Threat Detection)**  
+  <https://github.com/Eweka01/Building-a-SOC-Honeynet-in-Azure-Live-Traffic->
+- **AI-Driven CI/CD → ECS Fargate (2048 Game Case Study)**  
+  Repo: *(coming soon)* · Article: *From Prompt to Production* (Medium)
+- **Near Real-Time Stock Analytics on AWS**  
+  Architecture: Kinesis → Lambda → DynamoDB/S3 → Athena → SNS (alerts)  
+  Article: <https://medium.com/@oseweka1/from-feed-to-signal-building-a-near-real-time-stock-analytics-pipeline-on-aws-kinesis-lambda-bb9dd78b146e>
+- **Ansible Multinode Automation (DO droplets)**  
+  Fleet user/group mgmt, service checks, and NGINX/SSH verification
+- **Malware & Phishing Email Analysis**  
+  <https://github.com/Eweka01/Malware-and-Phishing-Email-Analysis/tree/main>
+- **Snort IDS/IPS Configuration & Threat Analysis**  
+  <https://github.com/Eweka01/Snort-IDS-IPS-Configuration-and-Analysis>
 
+> More projects: <https://github.com/Eweka01>
+
+---
+
+## Stack & Tools
+**Cloud:** AWS, Azure  
+**IaC:** Terraform, CloudFormation  
+**CI/CD:** GitHub Actions, Jenkins  
+**Containers:** Docker, ECS/Fargate, EKS (foundations)  
+**Security:** SonarQube, Snyk, OWASP ZAP, Splunk, Microsoft Sentinel  
+**OS & Automation:** Linux (Ubuntu/RedHat), Bash, Ansible
+
+---
+
+## Writing & Guides
+- Technical posts and DevOps insights on Medium:  
+  **Portfolio:** <https://medium.com/@osomudeyazudonu>  
+  **Case Study:** *Near Real-Time Stock Analytics on AWS* → *(see link above)*
+
+---
+
+## Certifications
 - **CompTIA Security+**  
-- **AWS Certified Solutions Architect – Associate**  
-- **AWS Certified DevOps Engineer – Professional (in progress)**  
-- **AWS Certified Security – Specialty (in progress)**  
+- **Targeting:** AWS Solutions Architect – Associate (booking), AWS DevOps Engineer – Professional, AWS Security – Specialty
 
 ---
 
-## 🚀 My Project Journey  
-
-### ✅ Cybersecurity + SOC Projects  
-- [**SOC + Honeynet in Azure (Live Threat Detection)**](https://github.com/Eweka01/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-)  
-- [**Malware & Phishing Email Analysis**](https://github.com/Eweka01/Malware-and-Phishing-Email-Analysis/tree/main)  
-- [**Snort IDS/IPS Configuration & Threat Analysis**](https://github.com/Eweka01/Snort-IDS-IPS-Configuration-and-Analysis)  
-
-### ✅ Cloud & DevSecOps Projects *(In Progress)*  
-- **Linux Administration Bootcamp Projects** – mastering Ubuntu/RedHat + security hardening  
-- **AWS Networking + VPC Projects** – designing secure multi-tier architectures  
-- **Terraform + Kubernetes (EKS)** – automating AWS cloud infrastructure  
-- **CI/CD DevSecOps Pipeline** – Jenkins + GitHub Actions + SonarQube + Snyk + OWASP ZAP  
-
-[🔗 Explore my portfolio here!](https://github.com/Eweka01)  
+## What Excites Me
+Working with teams that value **secure automation**, **clear communication**, and **measurable reliability**.  
+Let’s turn infra from a blocker into a product advantage.
 
 ---
 
-## 📚 Current Learning Path  
-
-📌 **Linux System Administration Bootcamp** → Foundations for automation & security  
-📌 **AWS VPC & Networking Mastery** → Secure cloud networking at scale  
-📌 **Terraform + Kubernetes Projects** → Infrastructure-as-Code & orchestration  
-📌 **DevSecOps Pipeline Security** → SAST, SCA & DAST integration  
-📌 **Real-world AWS DevOps Projects** → Deployments, automation & monitoring  
+## Currently Seeking
+- **Remote** roles across **DevOps / DevSecOps / Platform / SRE** (US/EU-friendly time zones)  
+- Keen on **SaaS**, **fintech**, and **infra-heavy** products
 
 ---
 
-## 📫 Let’s Connect  
-
-💌 **Email** → [oseweka2@gmail.com](mailto:oseweka2@gmail.com)  
-🔗 **LinkedIn** → [Osamudiamen Eweka](https://www.linkedin.com/in/osamudiamen-eweka-85b3b3261/)  
-
-💡 *Always open to opportunities in AWS DevOps, Cloud Security & DevSecOps Engineering.*  
+## Contact
+- 📍 Brooklyn, NY (Open to remote)  
+- ✉️ **oseweka2@gmail.com**  
+- 🔗 **LinkedIn:** <https://www.linkedin.com/in/osamudiamen-eweka-85b3b3261/>
