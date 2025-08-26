@@ -1,4 +1,4 @@
-# DevOps / DevSecOps Engineer — Building Infrastructure That Scales Securely
+# DevOps / CloudEngineer — Building Infrastructure That Scales Securely
 
 Hi, I’m **Osamudiamen (Gabriel) Eweka** — a cybersecurity-minded Cloud & DevOps engineer focused on **secure automation on AWS**.  
 I design reproducible infrastructure, wire up CI/CD with security gates, and keep systems observable from day one.
