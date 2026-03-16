@@ -33,33 +33,4 @@ AWS, VPC, Subnets, Security Groups, IAM, Route 53, EC2, S3, RDS, Lambda, CloudFr
 
 ---
 
-## Featured Projects
-
-### ☁️ Cloud Engineering Projects [Repo](https://github.com/Eweka01/Cloud-Projects/tree/main/projects)
-
-
-### 🔧 DevOps Projects
-
-
-### 🛡️ SOC Analyst Projects
-
-> More projects: <https://github.com/Eweka01>
----
-
-## What Excites Me
-Working with teams that value both technical excellence and clear communication.
-I thrive in environments where I can architect solutions, implement best practices,
-and help others understand the "why" behind infrastructure decisions.
-
----
-
-## Currently Seeking
-- Remote mid-level - senior DevOps opportunities globally
-- Especially interested in SaaS, fintech, and infrastructure-heavy products
-- Open to roles as Platform Engineer, SRE, or DevOps Engineer
-
----
-
-#### Ongoing Projects Porfolio Link Below 👇👇
-
 ## https://medium.com/@oseweka1
