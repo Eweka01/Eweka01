@@ -25,11 +25,6 @@ AWS, VPC, Subnets, Security Groups, IAM, Route 53, EC2, S3, RDS, Lambda, CloudFr
 
 ---
 
-## Recent Achievements
-- Built an **AI-assisted CI/CD** pipeline that ships a containerized app to **ECS Fargate** end-to-end  
-- Stood up a **real-time stock analytics pipeline** on **Kinesis + Lambda + DynamoDB + S3 + Athena + SNS**  
-- Deployed a **multi-node Ansible** automation lab on DigitalOcean for repeatable fleet tasks  
-- Created an **Azure SOC honeynet** capturing live traffic with Sentinel dashboards & detections
 
 ---
 
